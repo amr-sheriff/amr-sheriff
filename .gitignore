@@ -1,0 +1,7 @@
+# env file #
+.env
+
+**/.DS_Store
+.idea/
+__pycache__
+amrr-382100-29e33e7c03a1.json

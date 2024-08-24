@@ -1,4 +1,16 @@
 
+<picture>
+  <source
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api?username=amr-sheriff&show_icons=true&theme=dark&number_format=long"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api?username=amr-sheriff&show_icons=true&number_format=long"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-neon-five-33.vercel.app/api?username=amr-sheriff&show_icons=true&number_format=long" />
+</picture>
+
 
 <!--
 **amr-sheriff/amr-sheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
