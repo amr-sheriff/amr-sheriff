@@ -10,6 +10,22 @@
   />
   <img src="https://github-readme-stats-neon-five-33.vercel.app/api?username=amr-sheriff&show_icons=true&number_format=long" />
 </picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&show_icons=true&theme=dark&number_format=long"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&show_icons=true&number_format=long"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&show_icons=true&number_format=long" />
+</picture>
+
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 <!--
