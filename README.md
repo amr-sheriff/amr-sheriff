@@ -22,16 +22,18 @@
   <img height=200 align="center" src="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&layout=compact&langs_count=8&card_width=320" />
 </picture>
 
+---
+
 <picture>
   <source
-    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=dark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4"
+    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onedark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=light&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4"
+    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=light&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4" />
+  <img src="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=light&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4" />
 </picture>
 
 <!--
