@@ -25,14 +25,14 @@
 
 <picture>
   <source
-    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onedark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience"
+    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience"
+    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience" />
+  <img src="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience" />
 </picture>
 
 ---
