@@ -51,6 +51,20 @@
   />
 </picture>
 
+---
+
+<script>
+  const img = document.createElement('img');
+  const prefersDarkScheme = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+  img.src = prefersDarkScheme
+    ? 'https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=dark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4'
+    : 'https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=light&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4';
+
+  document.body.appendChild(img);
+</script>
+
+
 <!--
 **amr-sheriff/amr-sheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
