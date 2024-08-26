@@ -37,18 +37,12 @@
 
 ---
 
-<img class="dark" src="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onedark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4" />
-<img class="light" src="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4" />
+<!-- Dark Mode Image -->
+![trophy](https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onedark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4#gh-dark-mode-only)
 
-<style>
-html[data-theme="light"] .dark {
-display: none;
-}
+<!-- Light Mode Image -->
+![trophy](https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4#gh-light-mode-only)
 
-html[data-theme="dark"] .light {
-display: none;
-}
-</style>
 
 <!--
 **amr-sheriff/amr-sheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
