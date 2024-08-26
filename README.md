@@ -39,6 +39,13 @@
 
 <picture>
   <img
+    src="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4"
+    alt="GitHub Profile Trophy - Light"
+  />
+</picture>
+
+<picture>
+  <img
     src="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onedark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4"
     alt="GitHub Profile Trophy - Dark"
   />
