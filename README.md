@@ -22,7 +22,17 @@
   <img height=200 align="center" src="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&layout=compact&langs_count=8&card_width=320" />
 </picture>
 
-
+<picture>
+  <source
+    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=dark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=light&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height=200 align="center" src="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=light&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4" />
+</picture>
 
 <!--
 **amr-sheriff/amr-sheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
