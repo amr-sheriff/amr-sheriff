@@ -23,25 +23,35 @@
 
 ---
 
-<picture>
-  <source
-    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onedark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4" />
-</picture>
+[//]: # (<picture>)
+
+[//]: # (  <source)
+
+[//]: # (    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onedark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4")
+
+[//]: # (    media="&#40;prefers-color-scheme: dark&#41;")
+
+[//]: # (  />)
+
+[//]: # (  <source)
+
+[//]: # (    srcset="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4")
+
+[//]: # (    media="&#40;prefers-color-scheme: light&#41;, &#40;prefers-color-scheme: no-preference&#41;")
+
+[//]: # (  />)
+
+[//]: # (  <img src="https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4" />)
+
+[//]: # (</picture>)
 
 ---
 
 <!-- Dark Mode Image -->
-![trophy](https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onedark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4#gh-dark-mode-only)
+![trophy-dark](https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onedark&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4#gh-dark-mode-only)
 
 <!-- Light Mode Image -->
-![trophy](https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4#gh-light-mode-only)
+![trophy-light](https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=flat&locale=en&margin-w=15&margin-h=15&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4#gh-light-mode-only)
 
 
 <!--
