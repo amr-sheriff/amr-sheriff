@@ -38,7 +38,7 @@
     srcset="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time" />
+  <img width="450" src="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time" />
 </picture>
 <picture>
     <source
