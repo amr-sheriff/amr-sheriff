@@ -23,7 +23,7 @@
 
 ---
 
-![trophy](https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=tokyonight&locale=en&margin-w=15&margin-h=15&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4)
+![trophy](https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onestar&locale=en&margin-w=15&margin-h=15&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4)
 
 
 <!--
