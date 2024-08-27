@@ -40,6 +40,22 @@
   />
   <img src="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time" />
 </picture>
+<picture>
+    <source
+        srcset="https://github-readme-streak-stats-bay-three.vercel.app?user=amr-sheriff&theme=tokyonight&hide_border=true&card_width=450"
+        media="(prefers-color-scheme: dark)"
+    />
+    <source
+        srcset="https://github-readme-streak-stats-bay-three.vercel.app?user=amr-sheriff&hide_border=true&card_width=450"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-streak-stats-bay-three.vercel.app?user=amr-sheriff&hide_border=true&card_width=450" />
+</picture>
+
+---
+
+
+
 
 <!--
 **amr-sheriff/amr-sheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
