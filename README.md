@@ -27,7 +27,17 @@
 
 ---
 
-[![Amr's WakaTime stats](https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf)](https://github.com/amr-sheriff/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time" />
+</picture>
 
 <!--
 **amr-sheriff/amr-sheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
