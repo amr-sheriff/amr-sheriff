@@ -54,6 +54,8 @@
 
 ---
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#292](https://github.com/ryo-ma/github-profile-trophy/pull/292) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+<!--END_SECTION:activity-->
 
 
 
