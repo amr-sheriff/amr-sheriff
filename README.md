@@ -1,6 +1,6 @@
 <picture>
   <source
-    srcset="https://github-readme-stats-neon-five-33.vercel.app/api?username=amr-sheriff&show_icons=true&theme=dark&number_format=long"
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api?username=amr-sheriff&show_icons=true&theme=github_dark&number_format=long"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -11,7 +11,7 @@
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&theme=dark&layout=compact&langs_count=8&card_width=320"
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&theme=github_dark&layout=compact&langs_count=8&card_width=320"
     media="(prefers-color-scheme: dark)"
   />
   <source
