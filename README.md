@@ -25,6 +25,9 @@
 
 ![trophy](https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onestar&locale=en&margin-w=15&margin-h=15&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4)
 
+---
+
+[![Amr's WakaTime stats](https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf)](https://github.com/amr-sheriff/github-readme-stats)
 
 <!--
 **amr-sheriff/amr-sheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
