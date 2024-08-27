@@ -57,7 +57,14 @@
 1. 💪 Opened PR [#292](https://github.com/ryo-ma/github-profile-trophy/pull/292) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 <!--END_SECTION:activity-->
 
+---
 
+<picture>
+  <img src="/my-metrics-0.svg" alt="Metrics">
+</picture>
+<picture>
+  <img src="/my-metrics-1.svg" alt="Metrics">
+</picture>
 
 <!--
 **amr-sheriff/amr-sheriff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

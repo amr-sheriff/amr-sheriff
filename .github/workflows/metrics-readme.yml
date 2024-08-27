@@ -46,7 +46,6 @@ jobs:
           config_twemoji: yes
           filename: my-metrics-1.svg
           output_action: commit
-#          committer_branch: metrics-renders
           committer_message: "chore: update metrics"
           retries: 3
           retries_delay: 300
