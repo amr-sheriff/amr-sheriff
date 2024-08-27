@@ -38,18 +38,18 @@
     srcset="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="425" align="center" src="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time" />
+  <img width="412" align="center" src="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time" />
 </picture>
 <picture>
     <source
-        srcset="https://github-readme-streak-stats-bay-three.vercel.app?user=amr-sheriff&theme=tokyonight&hide_border=true&card_width=425"
+        srcset="https://github-readme-streak-stats-bay-three.vercel.app?user=amr-sheriff&theme=tokyonight&hide_border=true&card_width=412"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-streak-stats-bay-three.vercel.app?user=amr-sheriff&hide_border=true&card_width=425"
+        srcset="https://github-readme-streak-stats-bay-three.vercel.app?user=amr-sheriff&hide_border=true&card_width=412"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img align="center" src="https://github-readme-streak-stats-bay-three.vercel.app?user=amr-sheriff&hide_border=true&card_width=425" />
+    <img align="center" src="https://github-readme-streak-stats-bay-three.vercel.app?user=amr-sheriff&hide_border=true&card_width=412" />
 </picture>
 
 ---
