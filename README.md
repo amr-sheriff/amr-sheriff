@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=amr-sheriff&label=Profile+Views&style=flat&color=blue&abbreviated=false)
+
 <picture>
   <source
     srcset="https://github-readme-stats-neon-five-33.vercel.app/api?username=amr-sheriff&show_icons=true&theme=github_dark&number_format=long"
