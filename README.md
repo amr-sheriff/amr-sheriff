@@ -60,10 +60,13 @@
 ---
 
 <picture>
-  <img src="/my-metrics-0.svg" alt="Metrics">
+  <img width="450" align="center" src="/achievements-metrics.svg" alt="Metrics">
 </picture>
 <picture>
-  <img src="/my-metrics-1.svg" alt="Metrics">
+  <img width="405" align="top" src="/base-metrics.svg" alt="Metrics">
+</picture>
+<picture>
+  <img align="top" src="/contrib-metrics.svg" alt="Metrics">
 </picture>
 
 <!--
