@@ -1,4 +1,4 @@
-![Alt text](output-small.gif)
+![Alt text](output-small.webp)
 
 <picture>
   <source
