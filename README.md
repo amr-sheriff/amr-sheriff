@@ -1,4 +1,4 @@
-![Alt text](output.gif)
+![Alt text](output-small.gif)
 
 <picture>
   <source
