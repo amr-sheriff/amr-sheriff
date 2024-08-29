@@ -1,4 +1,14 @@
-![Alt text](output-small.webp)
+<picture>
+  <source
+    srcset="https://github.com/amr-sheriff/amr-sheriff/blob/main/intro-small-dark.webp"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github.com/amr-sheriff/amr-sheriff/blob/main/intro-small-light.webp"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="intro-small-light.webp" />
+</picture>
 
 <picture>
   <source
