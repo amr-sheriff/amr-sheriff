@@ -10,6 +10,7 @@
   <img src="intro-small-light.webp" />
 </picture>
 
+---
 <picture>
   <source
     srcset="https://github-readme-stats-neon-five-33.vercel.app/api?username=amr-sheriff&show_icons=true&theme=github_dark&number_format=long"
