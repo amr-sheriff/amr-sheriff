@@ -76,6 +76,7 @@
 <picture>
   <img width="400" align="top" src="/base-metrics.svg" alt="Metrics">
 </picture>
+---
 <picture>
   <img align="top" src="/contrib-metrics.svg" alt="Metrics">
 </picture>
