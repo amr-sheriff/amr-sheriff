@@ -15,18 +15,15 @@
 My name is Amr Sherif, I am an AI scientist and data professional with a passion for solving complex problems and creating value through data-driven insights. 
 I specialize in artificial intelligence, machine learning, business analytics, and data engineering.
 
-
-
----
 ### ✍ 𝙱𝚕𝚘𝚐 & 𝚆𝚛𝚒𝚝𝚒𝚗𝚐
 #### I keep a blog where I share my thoughts. You can find my articles on:  
 [![Website](https://img.shields.io/badge/Personal%20Website-black?style=flat-square)](https://amrsherif.live/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=#000000)](https://medium.com/@amr.achraff)
----
+
 ### 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrachraf)
 [![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord&logoColor=#5865F2)](https://discord.com/users/1051173314569191434)
----
+
 
 ### 🔔 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
