@@ -10,7 +10,6 @@
   <img src="intro-small-light.webp" />
 </picture>
 
----
 ### 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 My name is Amr Sherif, I am an AI scientist and data professional with a passion for solving complex problems and creating value through data-driven insights. 
 I specialize in artificial intelligence, machine learning, business analytics, and data engineering.
