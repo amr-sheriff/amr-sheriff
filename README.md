@@ -85,7 +85,7 @@ I keep a blog where I share my thoughts. You can find my articles on:
   <img width="440" align="center" src="/achievements-metrics.svg" alt="Metrics">
 </picture>
 <picture>
-  <img width="400" align="top" src="/base-metrics.svg" alt="Metrics">
+  <img width="400" align="center" src="/base-metrics.svg" alt="Metrics">
 </picture>
 
 <picture>
