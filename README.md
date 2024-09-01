@@ -15,7 +15,7 @@ My name is Amr Sherif, I am an AI scientist and data professional with a passion
 I specialize in artificial intelligence, machine learning, business analytics, and data engineering.
 
 ### ✍ 𝙱𝚕𝚘𝚐 & 𝚆𝚛𝚒𝚝𝚒𝚗𝚐
-#### I keep a blog where I share my thoughts. You can find my articles on:  
+I keep a blog where I share my thoughts. You can find my articles on:  
 [![Website](https://img.shields.io/badge/Personal%20Website-black?style=flat-square)](https://amrsherif.live/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flat-square&logo=medium&logoColor=#000000)](https://medium.com/@amr.achraff)
 
