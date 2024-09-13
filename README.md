@@ -26,6 +26,8 @@ I keep a blog where I share my thoughts. You can find my articles on:
 
 ### 🔔 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
+1. 🚀 Published release [bi_toolbox==0.1.0a1](https://github.com/amr-sheriff/BI-Toolbox/releases/tag/0.1.0a1) in [amr-sheriff/BI-Toolbox](https://github.com/amr-sheriff/BI-Toolbox)
+2. 💪 Opened PR [#292](https://github.com/ryo-ma/github-profile-trophy/pull/292) in [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
 <!--END_SECTION:activity-->
 
 ---
