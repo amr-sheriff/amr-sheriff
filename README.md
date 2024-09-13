@@ -45,14 +45,14 @@ I keep a blog where I share my thoughts. You can find my articles on:
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&theme=github_dark&layout=compact&langs_count=8&card_width=320"
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&theme=github_dark&layout=compact&langs_count=8&card_width=320&hide=css,scss,html&exclude_repo=github-readme-streak-stats,amr-sheriff.github.io"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&layout=compact&langs_count=8&card_width=320"
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&layout=compact&langs_count=8&card_width=320&hide=css,scss,html&exclude_repo=github-readme-streak-stats,amr-sheriff.github.io"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 align="center" src="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-neon-five-33.vercel.app/api/top-langs?username=amr-sheriff&layout=compact&langs_count=8&card_width=320&hide=css,scss,html&exclude_repo=github-readme-streak-stats,amr-sheriff.github.io" />
 </picture>
 
 ![trophy](https://github-profile-trophy-vert.vercel.app/?username=amr-sheriff&theme=onestar&locale=en&margin-w=15&margin-h=15&no-bg=false&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=-Experience&column=4)
