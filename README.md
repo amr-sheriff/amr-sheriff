@@ -60,14 +60,14 @@ I keep a blog where I share my thoughts. You can find my articles on:
 ---
 <picture>
   <source
-    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time&theme=github_dark"
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time&theme=github_dark&langs_count=10"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time"
+    srcset="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time&langs_count=10"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="412" align="center" src="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time" />
+  <img width="412" align="center" src="https://github-readme-stats-neon-five-33.vercel.app/api/wakatime?username=@amrachraf&layout=compact&display_format=time&langs_count=10" />
 </picture>
 <picture>
     <source
