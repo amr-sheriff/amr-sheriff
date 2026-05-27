@@ -26,8 +26,8 @@ I keep a blog where I share my thoughts. You can find my articles on:
 
 ### 🔔 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#779](https://github.com/langgenius/dify-docs/pull/779) in [langgenius/dify-docs](https://github.com/langgenius/dify-docs)
-2. 💪 Opened PR [#36265](https://github.com/langgenius/dify/pull/36265) in [langgenius/dify](https://github.com/langgenius/dify)
+1. 🎉 Merged PR [#36265](https://github.com/langgenius/dify/pull/36265) in [langgenius/dify](https://github.com/langgenius/dify)
+2. 💪 Opened PR [#779](https://github.com/langgenius/dify-docs/pull/779) in [langgenius/dify-docs](https://github.com/langgenius/dify-docs)
 <!--END_SECTION:activity-->
 
 ---
